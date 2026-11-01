@@ -1,0 +1,77 @@
+```css
+/* Mise en forme générale */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+
+/* Menu de navigation */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: black;
+}
+
+
+/* Logo BMW */
+
+h1 {
+    font-size: 35px;
+    color: white;
+}
+
+
+/* Liens du menu */
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 25px;
+    font-size: 16px;
+}
+
+
+/* Section d'accueil */
+
+.accueil {
+    height: 500px;
+    background-color: #202020;
+    text-align: center;
+    padding-top: 100px;
+}
+
+
+/* Titre principal */
+
+.accueil h2 {
+    font-size: 40px;
+}
+
+
+/* Paragraphe */
+
+.accueil p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+
+/* Bouton */
+
+.bouton {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-weight: bold;
+}
+```
+
+```
