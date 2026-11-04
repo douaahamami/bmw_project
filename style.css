@@ -72,6 +72,210 @@ nav a {
     padding: 15px 30px;
     font-weight: bold;
 }
+.modeles {
+    text-align: center;
+    padding: 100px 20px;
+    background-color: #202020;
+}
+
+.modeles h2 {
+    font-size: 35px;
+}
+
+.modeles p {
+    font-size: 18px;
+}
+.voitures {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.voiture {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 15px;
+    text-align: center;
+}
+
+.voiture img {
+    width: 100%;
+    height: 200px;
+}
+```css
+/* Présentation de BMW */
+
+.presentation {
+    background-color: #101820;
+    color: white;
+    text-align: center;
+    padding: 80px;
+}
+
+
+/* Titre de présentation */
+
+.presentation h2 {
+    color: #00A3E0;
+    font-size: 40px;
+}
+
+
+/* Paragraphes */
+
+.presentation p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+
+/* Histoire de BMW */
+
+.histoire {
+    background-color: #E6E6E6;
+    color: #101820;
+    text-align: center;
+    padding: 60px;
+}
+
+
+/* Titre de l'histoire */
+
+.histoire h2 {
+    color: #0066B1;
+    font-size: 35px;
+}
+
+
+/* Valeurs de BMW */
+
+.valeurs {
+    background-color: #101820;
+    color: white;
+    text-align: center;
+    padding: 60px;
+}
+
+
+/* Conteneur des blocs */
+
+.blocs {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+
+/* Chaque bloc */
+
+.bloc {
+    background-color: #0066B1;
+    color: white;
+    width: 250px;
+    padding: 25px;
+}
+
+
+/* Titres des blocs */
+
+.bloc h3 {
+    color: white;
+    font-size: 25px;
+}
+
+
+/* Paragraphes des blocs */
+
+.bloc p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+```css
+/* Section Contact */
+
+.contact {
+    background-color: #101820;
+    color: white;
+    text-align: center;
+    padding: 60px;
+}
+
+
+/* Titre Contact */
+
+.contact h2 {
+    color: #00A3E0;
+    font-size: 35px;
+}
+
+
+/* Formulaire */
+
+form {
+    background-color: white;
+    color: black;
+    width: 400px;
+    margin: 40px auto;
+    padding: 30px;
+    text-align: left;
+}
+
+
+/* Textes des champs */
+
+label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+
+/* Champs de saisie */
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+}
+
+
+/* Liste déroulante */
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+}
+
+
+/* Zone du message */
+
+textarea {
+    width: 100%;
+    height: 120px;
+    padding: 10px;
+    margin-top: 8px;
+}
+
+
+/* Bouton Envoyer */
+
+button {
+    background-color: #0066B1;
+    color: white;
+    padding: 12px;
+    margin-top: 20px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+```
+
+```
+
 ```
 
 ```
